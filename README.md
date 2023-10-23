@@ -24,14 +24,3 @@ Scrapy Pipeline - used to collect & process incoming data each week. Contains sp
 
 #### <a href="https://github.com/andyclarkemedia/Pundits-Review/tree/master/premierleaguematchreports">Premier League Match Reports</a>
 Project Settings - deployment & local use settings for project
-
-
-## Associated Repositories
-
-##### <a href="https://github.com/andyclarkemedia/Pundits-Review-Resources">Resources</a> - Data, images & Python dictionary of Premier League players & teams
-##### <a href="https://github.com/andyclarkemedia/Pundits-Review-Scraping">Scraping</a> - Development of the scraping process used to collect data
-##### <a href="https://github.com/andyclarkemedia/Pundits-Review-Entity-Extraction">Entity Extraction</a> - Development of the process used to recognise Premier League player & club entities within a news article
-##### <a href="https://github.com/andyclarkemedia/Pundits-Review-Sentiment-Prediction">Sentiment Prediction</a> - Development of the prediction model used to predict the sentiment in football news articles 
-
-##
-#### Any Questions ... <a target="_blank" href="mailto:clarkeAJ3@cardiff.ac.uk">Send me an email!</a>
